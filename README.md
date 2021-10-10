@@ -4,8 +4,8 @@
 <h2> About Me </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m currently working on my Github Projects
-
-- 🌱 I’m currently learning **Blockchain**
+<!-- 
+- 🌱 I’m currently learning **Blockchain** -->
 
 - 👯 I’m looking to collaborate on front-end and back-end projects related to **javascript, typescript and go**
 
